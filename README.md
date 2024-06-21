@@ -1,9 +1,11 @@
 # FL-IDS WSensing 2022
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Source Code of the Article “Combination of Models for Denial-Of-Service Classification
 over Different Networks”, published in Workshop on Security, Privacy and Reliability on Wireless Sensing Networks -- WSensing 2022.
 
-## Citation 
+## How to cite 
 
 To cite this work, use the following citation: 
 
